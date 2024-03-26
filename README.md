@@ -28,7 +28,7 @@ This module assumes knowledge of:
 ## **Getting Started**<br>
 Accessing the Module
 On MATLAB &reg; Online &trade; :
-Use the  ([![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)] link to download the module. You will be prompted to log in or create a [MathWorks account](https://www.mathworks.com/mwaccount/register). The project will be loaded, and you will see an app with several navigation options to get you started.
+Use the  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic) link to download the module. You will be prompted to log in or create a [MathWorks account](https://www.mathworks.com/mwaccount/register). The project will be loaded, and you will see an app with several navigation options to get you started.
 On Desktop:
 Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on NENANA.prj. It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
 Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add-On Explorer. To install an add-on, go to the Home tab and select   Add-Ons > Get Add-Ons. 
@@ -38,7 +38,8 @@ MATLAB is used throughout. Tools from the Curve Fitting Toolbox &trade;  are use
 
 ## **Scripts**<br>
 If you are viewing this in a version of MATLAB prior to R2023b, you can view the learning outcomes for each script here
-[Nenana.mlx]([![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)] link to download the module. You will be prompted to log in or create a [MathWorks account](https://www.mathworks.com/mwaccount/register).
+[Nenana.mlx][![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic)
+link to download the module. You will be prompted to log in or create a [MathWorks account](https://www.mathworks.com/mwaccount/register).
 
 ### **In this script, students will...**<br>
 - Investigate relationships between quantities by using points on scatter plots.
