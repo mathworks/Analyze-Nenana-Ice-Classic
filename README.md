@@ -41,6 +41,19 @@ If you are viewing this in a version of MATLAB prior to R2023b, you can view the
 [Nenana.mlx][![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic)
 link to download the module. You will be prompted to log in or create a [MathWorks account](https://www.mathworks.com/mwaccount/register).
 
+### **Scripts**<br>
+| Nenana_mathmodel | ### **In this script, students will use a math modeling approach to...**                                                                                                                                                                                                                                                      |
+|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                  | - Investigate relationships between quantities by using points on scatter plots. - Model an approximately linear situation using MATLAB. - Apply lines of fit to make and evaluate predictions. - Perform a linear regression analysis using MATLAB. - Interpret and communicate the results of a linear regression analysis. |
+
+- Investigate relationships between quantities by using points on scatter plots.
+- Model an approximately linear situation.
+- Apply lines of fit to make and evaluate predictions.
+- Use a computational tool, MATLAB, to plot data, and model lines of fit.
+- Describe what linear regression is and how it can be used to analyze data.
+- Perform a linear regression analysis using MATLAB.
+- Interpret and communicate the results of a linear regression analysis.
+
 ### **In this script, students will...**<br>
 - Investigate relationships between quantities by using points on scatter plots.
 - Model an approximately linear situation.
