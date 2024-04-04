@@ -2,7 +2,7 @@
 
 # **Analyze-Nenana-Ice-Classic**<br>
 
-![nenana](/uploads/cfdcb1323779814cabfe2bde11eceb0d/nenana.png)<br>
+![nenana](/Nenana.jpg)<br>
 https://commons.wikimedia.org/wiki/File:Tanana_River_in_Nenana.jpg
 
 The Nenana Ice Classic is an annual event that takes place in Nenana, Alaska. It is a guessing game where people try to predict the exact time when the ice on the Tanana River will break up in the spring. 
