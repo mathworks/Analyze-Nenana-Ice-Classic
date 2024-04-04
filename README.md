@@ -30,7 +30,7 @@ Accessing the Module
 On MATLAB &reg; Online &trade; :
 Use the  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic) link to download the module. You will be prompted to log in or create a [MathWorks account](https://www.mathworks.com/mwaccount/register). The project will be loaded, and you will see an app with several navigation options to get you started.
 On Desktop:
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on NENANA.prj. It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on Nenana.mlx.
 Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add-On Explorer. To install an add-on, go to the Home tab and select   Add-Ons > Get Add-Ons. 
 
 ## **Products**<br>
