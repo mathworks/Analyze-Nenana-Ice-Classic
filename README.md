@@ -63,8 +63,6 @@ MATLAB® is used throughout. Tools from the Curve Fitting Toolbox™ are used fr
 
 # Scripts
 
- *If you are viewing this in a version of MATLAB prior to R2023b, you can view the learning outcomes for each script* [*here*](https://www.mathworks.com/matlabcentral/fileexchange/REPO_NAME)
-
 ## [**Nenana1\_3.mlx**](./Nenana1_3.mlx) 
 | ![image_4.png](Images/image_4.png) <br>  | **In this script, students will...** <br> <br>-  Go through the first 3 steps of the Engineering Design Process to evaluate real\-world climate data.  <br> <br>-  Learn to use the 'Import Data' task to import data. <br> <br>-  Use basic MATLAB commands to plot data. <br> <br>-  Apply a basic linear regression to model real\-world climate data. <br>   |
 | :-- | :-- |
