@@ -1,7 +1,7 @@
 
 # Analyze Nenana Ice Classic
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://https://www.mathworks.com/matlabcentral/fileexchange/164811-analyze-nenana-ice-classic](https://www.mathworks.com/matlabcentral/fileexchange/164811-analyze-nenana-ice-classic)) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Analyze-Nenana-Ice-Classic&project=Nenana.prj)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://https://www.mathworks.com/matlabcentral/fileexchange/164811-analyze-nenana-ice-classic)](https://www.mathworks.com/matlabcentral/fileexchange/164811-analyze-nenana-ice-classic)) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Analyze-Nenana-Ice-Classic&project=Nenana.prj)
 
 **Curriculum Module**
 
