@@ -71,7 +71,7 @@ MATLAB® is used throughout. Tools from the Curve Fitting Toolbox™ are used fr
 
 # License
 
-The license for this module is available in the [LICENSE.md]((https://github.com/mathworks/Analyze-Nenana-Ice-Classic/blob/main/LICENSE)).
+The license for this module is available in the [LICENSE.md](https://github.com/mathworks/Analyze-Nenana-Ice-Classic/blob/main/LICENSE).
 
 # Related Courseware Modules
 
