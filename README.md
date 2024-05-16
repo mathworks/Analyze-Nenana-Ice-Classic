@@ -3,6 +3,8 @@
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/164811-analyze-nenana-ice-classic) or[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic&project=https://github.com/mathworks/Analyze-Nenana-Ice-Classic/blob/main/Nenana.prj)
 
+https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic&project=https://github.com/mathworks/Analyze-Nenana-Ice-Classic/blob/main/Nenana.prj
+
 **Curriculum Module**
 
 _Created with R2024a. Compatible with R2024a and later releases._
