@@ -10,7 +10,7 @@ _Created with R2024a. Compatible with R2024a and later releases._
 
 # Information
 
-This curriculum module contains interactive [MATLAB® live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that explore the Nenana Ice Classic datat set of ice breakup times from 1917 \- 2021.
+This curriculum module contains interactive [MATLAB® live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that explore the Nenana Ice Classic data set of ice breakup times from 1917 \- 2021.
 
 
 ## Background
