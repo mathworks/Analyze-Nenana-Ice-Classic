@@ -86,7 +86,7 @@ Feel free to explore our other [modular courseware content](https://www.mathwork
 Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks STEM Outreach team](mailto:%20stemoutreach@groups.mathworks.com).
 
 
- *©* Copyright 2024 The MathWorks™, Inc
+ *©* Copyright 2024 The MathWorks®, Inc
 
 
 
