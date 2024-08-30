@@ -46,7 +46,7 @@ This module assumes knowledge of
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic&project=Nenana.prj&file=Nenana1_3.mlx) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
+Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic&project=Nenana.prj&file=Nenana1_3.mlx) link to download the module. You will be prompted to log in or create a MathWorks account. 
 
 ### **On Desktop:**
 
