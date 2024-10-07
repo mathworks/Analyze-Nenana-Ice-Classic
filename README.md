@@ -1,7 +1,7 @@
 
 # Analyze Nenana Ice Classic
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/164811-analyze-nenana-ice-classic) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic&project=Nenana.prj&file=Nenana1_3.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/164811-analyze-nenana-ice-classic) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic&project=Nenana.prj&file=Nenana1_3.mlx&focus=true)
 
 
 **Curriculum Module**
@@ -37,7 +37,6 @@ Solutions are available upon instructor request. Contact the [MathWorks STEM Out
 ## Prerequisites
 
 This module assumes knowledge of 
-
 -  linear functions – graphing, writing equations, and slope. 
 -  representing data as a table and scatter plot. 
 -  modeling of an approximately linear situation with a line of fit. 
@@ -46,7 +45,7 @@ This module assumes knowledge of
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic&project=Nenana.prj&file=Nenana1_3.mlx) link to download the module. You will be prompted to log in or create a MathWorks account. 
+Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Analyze-Nenana-Ice-Classic&project=Nenana.prj&file=Nenana1_3.mlx&focus=true) link to download the module. You will be prompted to log in or create a MathWorks account. 
 
 ### **On Desktop:**
 
